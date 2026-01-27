@@ -10,9 +10,9 @@ The game designers have asked you to come up with a computer version of this gam
 
 To complete this project, you must do the following:
 
-- Write code that passes all of the requirements in the project rubric, and submit your GitHub link to the Thinkful team.
+- Write code that passes all of the requirements in the project rubric, and submit your GitHub link to the Chegg Skills team.
 
-Go ahead and get started by following the installation steps below. You'll submit your project to the Thinkful team when you are finished.
+Go ahead and get started by following the installation steps below. You'll submit your project to the Chegg Skills team when you are finished.
 
 # Installation
 
@@ -46,9 +46,11 @@ So, as you embark on this project, take a moment to review your commit history. 
 
 If you're unsure about uploading your work, revisit the *Pushing and Pulling* lesson in the *Git & GitHub* module.
 
-### No AI Assistance
+### AI Assistance
 
-For your final capstone project, it's crucial that you work independently and refrain from using AI tools like SkillMate or ChatGPT. This approach is vital for a number of reasons: it nurtures essential critical thinking and problem-solving skills, which are crucial for grasping complex concepts; it prepares you for live coding challenges in technical interviews; it equips you to handle unique professional scenarios where AI tools may not be available; and it guarantees that the assessments genuinely represent your skill level.
+For your final capstone project, it's crucial that you plan for and use AI tools to support your work—such as for idea generation, debugging, documentation, or helping evaluate possible models—but these tools must supplement, not replace, your own critical reasoning.  
+
+This approach is vital for a number of reasons: it nurtures essential critical thinking and problem-solving skills, which are crucial for grasping complex concepts; it prepares you for live coding challenges in technical interviews; it equips you to handle unique professional scenarios where AI tools may not be available; and it guarantees that the assessments genuinely represent your skill level. 
 
 While AI tools are beneficial for practice, they should not substitute your effort in assessments. We trust in your commitment to honesty and self-improvement and wish you the best in your learning journey.
 
