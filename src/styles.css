@@ -26,8 +26,15 @@ h2 {
 }
 
 #start {
-    text-align: center;
-    font-size: 30px;
+    display: block;
+  margin: 20px auto;
+  padding: 12px 40px;
+  font-size: 30px;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  background-color: #90ee90; /* light green */
+  border: 2px solid black;
+  border-radius: 999px; /* oval shape */
+  cursor: pointer;
 }
 
 #timer{
@@ -40,7 +47,7 @@ h2 {
   display: flex;
   flex-wrap: wrap;
   margin: 0 auto;
-  /*cursor: url('./assets/mallet.png'), pointer;*/
+  cursor: url('./assets/mallet.png'), pointer;
 }
 
 .hole {
